@@ -1,6 +1,6 @@
 import java.util.Scanner; //Se importa la clase Scanner para leer datos por teclado
 
-public class Main {
+public class ProgramaJugador {
     public static void main(String[] args) {
         //Se crea un objeto Scanner para leer los datos del usuario
         Scanner futbol= new Scanner(System.in);
